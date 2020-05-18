@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/wy1024/private
+[submodule "private11"]
+	path = private11
+	url = https://www.github.com/wywy1024/private11
